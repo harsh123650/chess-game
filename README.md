@@ -4,6 +4,7 @@ Welcome to the **Chess Game** built using **HTML, CSS, and JavaScript**! This is
 
 ---
 chessgame.png
+![Home Page](chessgame.png)
 
 ## 🌐 Live Preview
 
