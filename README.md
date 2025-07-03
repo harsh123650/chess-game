@@ -3,7 +3,7 @@
 Welcome to the **Chess Game** built using **HTML, CSS, and JavaScript**! This is a fully interactive chess game you can play in your browser, complete with move highlighting and turn-based play logic.
 
 ---
-chessgame.png
+
 ![Home Page](chessgame.png)
 
 ## 🌐 Live Preview
